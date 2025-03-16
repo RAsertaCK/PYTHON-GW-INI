@@ -1,7 +1,3 @@
-# Nama      : Rafael Abimanyu Ratmoko
-# NIM       : 123140134
-
-
 from abc import ABC, abstractmethod
 
 #Abstraksi : Class Character merupakan class abstract yang memiliki method abstract serang
